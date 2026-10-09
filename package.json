@@ -1,0 +1,23 @@
+{
+  "name": "seguia",
+  "version": "1.0.0",
+  "description": "Sistema Inteligente de Seguimiento Académico y Retroalimentación Docente Basado en Evidencias",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-suite.js"
+  },
+  "keywords": [
+    "seguia",
+    "educacion",
+    "inteligencia-artificial",
+    "docentes",
+    "analisis-pedagogico",
+    "gemini"
+  ],
+  "authors": [
+    "Cristóbal Martínez",
+    "Jainer Salas"
+  ],
+  "license": "MIT"
+}
